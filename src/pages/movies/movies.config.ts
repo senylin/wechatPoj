@@ -1,4 +1,4 @@
 export default {
-  navigationBarTitleText: '猫眼电影'
+  navigationBarTitleText: '猫眼电影2'
 }
  

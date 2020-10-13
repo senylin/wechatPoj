@@ -1,5 +1,6 @@
 export default {
   pages: [
+    "pages/index/index",
     "pages/movies/movies",
     // "pages/person/person",
     // "pages/cinema/cinema",

@@ -28,6 +28,7 @@
   "author": "",
   "dependencies": {
     "@babel/runtime": "^7.7.7",
+    "@tarojs/async-await": "^2.2.10",
     "@tarojs/components": "3.0.14",
     "@tarojs/react": "3.0.14",
     "@tarojs/redux": "^2.2.10",
